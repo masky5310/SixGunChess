@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chat_scope_private</key>
+	<string>【私聊】</string>
+	<key>chat_scope_room</key>
+	<string>【房间】</string>
+	<key>chat_scope_vip</key>
+	<string>【VIP】</string>
+	<key>chat_scope_world</key>
+	<string>【世界】</string>
+	<key>common_language_00</key>
+	<string>赶紧的吧，花儿都谢了！</string>
+	<key>common_language_01</key>
+	<string>别着急，让我想一想！</string>
+	<key>common_language_02</key>
+	<string>你棋下得挺好啊！</string>
+	<key>common_language_03</key>
+	<string>可以认识一下么？</string>
+	<key>common_language_04</key>
+	<string>下一把我就不让着你了~</string>
+	<key>common_language_05</key>
+	<string>和你下棋真尽兴！</string>
+	<key>common_language_06</key>
+	<string>还需要锻炼啊！</string>
+	<key>common_language_07</key>
+	<string>别走，接着来！</string>
+	<key>common_language_08</key>
+	<string>失误了，失误了！</string>
+	<key>common_language_09</key>
+	<string>你哪里人啊？</string>
+	<key>common_language_10</key>
+	<string>下次再战，再见！</string>
+	<key>exit_game_confirm</key>
+	<string>再次按返回键退出游戏</string>
+	<key>invite_friend_0</key>
+	<string>       请您的朋友输入房间号【</string>
+	<key>invite_friend_1</key>
+	<string>】即可加入游戏</string>
+	<key>str_computer_name</key>
+	<string>机器人王强</string>
+	<key>str_default_name</key>
+	<string>爱好者</string>
+	<key>str_player_name_edit</key>
+	<string>您的称号</string>
+	<key>str_player_password_edit</key>
+	<string>您的密码</string>	
+	<key>str_player_nickname_edit</key>
+	<string>您的昵称</string>
+	<key>str_room_id_edit</key>
+	<string>房间编号</string>
+	<key>str_title_level0</key>
+	<string>初出茅庐</string>
+	<key>str_title_level1</key>
+	<string>牛刀小试</string>
+	<key>str_title_level2</key>
+	<string>崭露头角</string>
+	<key>str_title_level3</key>
+	<string>技高一筹</string>
+	<key>str_title_level4</key>
+	<string>声名鹊起</string>
+	<key>str_title_level5</key>
+	<string>威震棋坛</string>
+	<key>str_title_level6</key>
+	<string>棋艺大成</string>
+	<key>str_title_level7</key>
+	<string>化    境</string>
+	<key>connect_net_err</key>
+	<string>网络连接错误</string>	
+	<key>kicked_by_server</key>
+	<string>本用户名已从其他设备登录</string>	
+</dict>
+</plist>
